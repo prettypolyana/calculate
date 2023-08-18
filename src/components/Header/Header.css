@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.header_title {
+    color:rgb(118, 118, 224);
+    margin: 20px 0 0;
+    text-shadow: rgb(110, 47, 151) 1px 0 3px;
+}
+
+.header__subtitle {
+    margin: 0;
+    color: rgb(111, 111, 253);
+    text-shadow: rgb(110, 47, 151) 1px 0 2.5px;
+}
